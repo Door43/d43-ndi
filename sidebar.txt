@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ndi:home|Door43 (ndi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ndi|d43-ndi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ndi/archive/master.zip|d43-ndi.zip]]
+
+**Recent Changes**
+{{changes>ns = ndi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ndi|Ethnologue data]]
+
